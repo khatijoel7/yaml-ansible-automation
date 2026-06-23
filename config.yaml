@@ -1,0 +1,25 @@
+application:
+  name: FileAutomationTool
+  version: 1.0
+
+folders:
+  Images:
+    - .jpg
+    - .jpeg
+    - .png
+    - .gif
+
+  Documents:
+    - .pdf
+    - .docx
+    - .txt
+
+  Videos:
+    - .mp4
+    - .avi
+    - .mov
+
+  Archives:
+    - .zip
+    - .rar
+    - .7z
